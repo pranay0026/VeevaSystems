@@ -11,8 +11,8 @@ public class StudentManagement {
 		records.put("DSA",record);
 		HashMap<Integer,Student> record2=new HashMap<>();
 		record2.put(3,new Student(3,"Pranay","CAI"));
-		record2.put(4,new Student(4,"Krishna","AIML"));
-		record2.put(5,new Student(5,"Koppineedi","CSE"));
+		record2.put(4,new Student(4,"Jahnoooo","CAI"));
+		record2.put(5,new Student(5,"Krishna","CSE"));
 		records.put("FSD",record2);
 		displayClass();
 		highestClassName();
